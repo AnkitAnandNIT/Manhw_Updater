@@ -1,0 +1,23 @@
+Requirements:
+
+selenium>=4.0.0
+twilio>=7.0.0
+beautifulsoup4>=4.9.3
+python-dotenv>=1.0.0
+requests>=2.25.1
+
+
+✅ Notes:
+
+-selenium: For web scraping.
+
+-twilio: To send SMS.
+
+-beautifulsoup4: In case you parse HTML (even if minimal, it’s useful).
+
+-python-dotenv: To load environment variables from .env file.
+
+-requests: Useful if you fetch any pages via HTTP without Selenium.
+
+Install everything using :
+pip install -r requirements.txt
