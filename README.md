@@ -1,7 +1,9 @@
 📚 Manhwa Updater
+
 Manhwa Updater is a Python-based automation tool that monitors your favorite manhwa series and sends you instant text message notifications when new chapters are released. Perfect for staying up-to-date without checking sites manually.
 
-🚀 Features
+🚀 Features:
+
 ✅ Scrapes chapter updates from manhwa websites (like Manhuascan/Kaliscan).
 
 ✅ Sends SMS notifications using Twilio (or any other messaging service).
@@ -10,7 +12,8 @@ Manhwa Updater is a Python-based automation tool that monitors your favorite man
 
 ✅ Easy to set up and run periodically (cron, task scheduler).
 
-🔧 Tech Stack
+🔧 Tech Stack:
+
 Python 3.x
 
 Selenium (web scraping)
@@ -20,6 +23,7 @@ Twilio API (for SMS)
 BeautifulSoup4 (optional, if parsing HTML)
 
 ⚙️ Installation
+
 1️⃣ Clone the repository:
 
 git clone https://github.com/AnkitAnandNIT/Manhw_Updater.git
